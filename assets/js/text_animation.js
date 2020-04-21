@@ -7,7 +7,7 @@
 		var animateSpan			= jQuery('.animation_text_word');
 		
 			animateSpan.typed({
-				strings: ["Detox", "Detox", "Detox"],
+				strings: ["Mental Health", "Wellbeing", "Happiness"],
 				loop: true,
 				startDelay: 1e3,
 				backDelay: 3e3
