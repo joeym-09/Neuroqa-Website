@@ -74,7 +74,7 @@ body {
   color:#848484;
   line-height:32px;
   font-weight:400;
-  background:#ffffff;
+  background:#9fd6cb;
   font-family: 'Roboto', sans-serif;
   background-size:cover;
   background-repeat:no-repeat;
@@ -198,7 +198,7 @@ h3 a:hover{
 }
 
 .bg-color-1{
-  background: #f7faff !important;
+  background: #e0f1ee !important;
 }
 
 .preloader{
@@ -579,7 +579,7 @@ img {
 }
 
 .main-header .outer-container .menu-right-content .phone a:hover{
-  color: #3b3b3b;
+  color: #635757;
 }
 
 .main-header .outer-container .menu-right-content .btn-box{
