@@ -1,6 +1,7 @@
  
 /* Css For Detox */
 
+
 /************ TABLE OF CONTENTS ***************
 1. Fonts
 2. Reset
@@ -1668,10 +1669,12 @@ div#mCSB_1_container{
   margin-bottom: 0px;
 }
 
+
+
 #content_block_01 .content-box .list-item li:before{
   position: absolute;
-  content: "\f105";
-  font-family: 'Flaticon';
+  content: "\f35a";
+  font-family: 'Font Awesome 5 Free';
   font-size: 25px;
   line-height: 30px;
   font-weight: 500;
@@ -3098,7 +3101,7 @@ div#mCSB_1_container{
 .service-style-two .content-box .list-item li:before {
   position: absolute;
   content: "\f105";
-  font-family: 'Flaticon';
+  font-family: 'Font 5 Awesome Free';
   font-size: 25px;
   line-height: 30px;
   font-weight: 500;
@@ -4089,7 +4092,7 @@ div#mCSB_1_container{
 .feature-style-two .inner-box .list-item li:before{
   position: absolute;
   content: "\f105";
-  font-family: 'Flaticon';
+  font-family: 'Font 5 Awesome Free';
   font-size: 25px;
   line-height: 30px;
   font-weight: 500;
